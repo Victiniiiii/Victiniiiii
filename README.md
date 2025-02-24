@@ -11,7 +11,7 @@
       <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=light&font=Karma&ext=activity" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/WPM-105-blue?style=for-the-badge&logo=Speed&logoColor=white" />
+      <img src="https://github.com/user-attachments/assets/f6102fe8-f814-4297-8154-996ac7eb8b94" />
     </td>
   </tr>
 </table>
