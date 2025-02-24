@@ -5,4 +5,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=300&theme=radical&hide=c#,ejs"/>
 </a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Abel&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Abel&ext=contest)
