@@ -11,7 +11,7 @@
       <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f6102fe8-f814-4297-8154-996ac7eb8b94" />
+      <img src="https://github.com/user-attachments/assets/1fc52d54-d0ed-46a3-acda-882d5a7cc56d" />
     </td>
   </tr>
 </table>
