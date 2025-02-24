@@ -5,6 +5,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=300&theme=radical&hide=c#,ejs"/>
 </a>
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma&ext=activity" />
+    <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
 </div>
 
