@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=light&font=Karma&ext=activity" />
+      <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/f6102fe8-f814-4297-8154-996ac7eb8b94" />
