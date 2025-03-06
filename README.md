@@ -8,10 +8,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
-    </td>
-    <td align="center">
       <img src="https://github.com/user-attachments/assets/1fc52d54-d0ed-46a3-acda-882d5a7cc56d" />
     </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
+    </td>    
   </tr>
 </table>
