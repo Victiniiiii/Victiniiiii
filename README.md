@@ -1,12 +1,11 @@
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width:40%; height: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=400&theme=radical&hide=c#,rust"/>
+    <img style="width: 45%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=400&theme=radical&hide=c#,rust"/>
   </a>
-  <a>
-    <img style="width:40%; height: 300px;" src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
+  <a href="https://leetcode.com/Victiniiiii/">
+    <img style="width: 45%; max-width: 400px;" src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
   </a>
 </div>
-    
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
