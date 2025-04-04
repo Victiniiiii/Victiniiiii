@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 45%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=400&theme=radical&hide=c#,rust"/>
+    <img style="width: 31.5%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=400&theme=radical&hide=c#,rust"/>
   </a>
   <a href="https://leetcode.com/Victiniiiii/">
-    <img style="width: 45%; max-width: 400px;" src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
+    <img style="width: 45%; height: 100%; object-fit: cover;" src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
   </a>
 </div>
 
