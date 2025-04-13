@@ -1,17 +1,17 @@
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victiniiiii&langs_count=6&card_width=300&layout=compact&show_icons=true&theme=react&hide=c%23sharp,rust,scss,cpp&exclude_repo=NTPCalismaSorulari"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victiniiiii&langs_count=6&card_width=300&layout=compact&show_icons=true&theme=react&hide=c%23sharp,csharp,c#,rust,scss,cpp&exclude_repo=NTPcalismasorulari"
       media="(prefers-color-scheme: dark)"
       style="width: 40% !important; height: 100%; object-fit: cover;"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victiniiiii&langs_count=6&card_width=300&layout=compact&show_icons=true&theme=react&hide=c%23sharp,rust,scss,cpp&exclude_repo=NTPCalismaSorulari"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victiniiiii&langs_count=6&card_width=300&layout=compact&show_icons=true&theme=react&hide=c%23sharp,csharp,c#,rust,scss,cpp&exclude_repo=NTPcalismasorulari"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       style="width: 40% !important; height: 100%; object-fit: cover;"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victiniiiii&langs_count=6&card_width=300&layout=compact&show_icons=true&hide=c%23sharp,rust,scss,cpp&exclude_repo=NTPCalismaSorulari"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victiniiiii&langs_count=6&card_width=300&layout=compact&show_icons=true&theme=react&hide=c%23sharp,csharp,c#,rust,scss,cpp&exclude_repo=NTPcalismasorulari"
       style="width: 40% !important; height: 100%; object-fit: cover;"
     />    
   </picture>
