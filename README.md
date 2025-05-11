@@ -1,4 +1,3 @@
-# Victiniiiii's Github Page!!!
 ## About me
 I'm studying statistics at Ege University in Izmir, Turkey. It's currently my third year. I speak Turkish, English and French.  
 I always wanted to have a programming job, but never thought it would be in front-end. Honestly, im pretty happy with my choice.  
