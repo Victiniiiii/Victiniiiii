@@ -1,7 +1,8 @@
 ## About me
 I'm studying statistics at Ege University in Izmir, Turkey. It's currently my third year. I speak Turkish, English and French.  
 I always wanted to have a programming job, but never thought it would be in front-end. Honestly, im pretty happy with my choice.  
-My life philosophy is, after seeing an interesting thing, saying "What if this thing had these extra features? And i fixed these parts?"  
+My life philosophy is, after seeing an interesting thing, saying "What if i made this thing but better?"  
+I am a fast learner, able to pick up new technologies in incredible time.  
 I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  
 My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/tauri.svg"> Tauri (They are doing a pretty good job). I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Linux Mint.  
 
