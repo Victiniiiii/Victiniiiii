@@ -21,24 +21,22 @@ My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" 
 <a href="https://victiniiiii.github.io/IzmirGuessrCompetitive">**IzmirGuessr Competitive**</a>: This is a web-based game where you're dropped onto a random street in Izmir using the Google Maps API, and your goal is to guess your exact location as accurately as possible. The game then gives you points based on how close your guess was, and the highest points are shown in the main menu leaderboard! You can login with Google to save your statistics and settings across multiple devices, just takes one click! I can safely say, the guessing game is much more fun when its the streets you grew up in...
 
 ## Technologies i use
-<div style="display: flex; flex-wrap: wrap; text-align: center;">
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/html.svg"> HTML 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/css.svg"> CSS 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/sass.svg"> SASS 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/tailwind.svg"> TailwindCSS 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/javascript.svg"> JavaScript 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/typescript.svg"> TypeScript 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/react.svg"> React 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/electronjs.svg"> ElectronJS 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/tauri.svg"> Tauri 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/react.svg"> React Native 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/expo.svg"> Expo 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/firebase.svg"> Firebase 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/nodejs.svg"> NodeJS 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/railway.svg"> Railway 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/git.svg"> Git 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/python.svg"> Python 
-  <img style="width: 1em; height: 1em; margin: 0 2em;" src="https://victiniiiii.github.io/icons/r.svg"> R 
+<div style="text-align: center;">
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/html.svg"> HTML&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/css.svg"> CSS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/sass.svg"> SASS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/tailwind.svg"> TailwindCSS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/javascript.svg"> JavaScript&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/typescript.svg"> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/react.svg"> React&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/electronjs.svg"> ElectronJS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/tauri.svg"> Tauri&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/react.svg"> React Native&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/expo.svg"> Expo&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/firebase.svg"> Firebase&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/nodejs.svg"> NodeJS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/railway.svg"> Railway&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/git.svg"> Git&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/python.svg"> Python&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/r.svg"> R
 </div>
-
-
