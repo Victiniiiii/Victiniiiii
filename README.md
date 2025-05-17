@@ -4,16 +4,16 @@ I always wanted to have a programming job, but never thought it would be in fron
 My life philosophy is, after seeing an interesting thing, saying "What if i made this thing but better?"  
 I am a fast learner, able to pick up new technologies in incredible time.  
 I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  
-My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/tauri.svg"> Tauri (They are doing a pretty good job). I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Linux Mint.  
+My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/tauri.svg"> Tauri (They are doing an incredible job). I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Linux Mint.  
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
+<!--<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style="width: 40% !important; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=300&theme=dark&hide=C%23,Rust,SCSS,EJS&exclude_repo=NTPcalismasorulari&v=2"/>
   </a>
   <a href="https://leetcode.com/Victiniiiii/">
     <img style="width: 55%; height: 100%; object-fit: cover;" src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
   </a>
-</div>
+</div>  -->
 
 ## My favorite projects (TRY THEM OUT!!!)
 <a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a>: TaratorMusic is a desktop music application, which has extreme optimisation, playlists, customisation, ability to download youtube videos, audio stabilisation, discord rich presence and more! It's free to use and fully open source, can be used while offline. This is the project who took the longest to develop (Still adding features). It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after many months, i did it. Please give it a try and let me know your opinions!  
