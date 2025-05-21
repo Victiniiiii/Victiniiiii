@@ -26,17 +26,26 @@ My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" 
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/css.svg"> CSS&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/sass.svg"> SASS&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/tailwind.svg"> TailwindCSS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/bootstrap.svg"> Bootstrap&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/javascript.svg"> JavaScript&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/typescript.svg"> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/react.svg"> React&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/electronjs.svg"> ElectronJS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/next.svg"> Next.js&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/electronjs.svg"> Electron&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/tauri.svg"> Tauri&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/react.svg"> React Native&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/expo.svg"> Expo&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/sqlite.svg"> SQLite&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/postgresql.svg"> PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/prisma.svg"> Prisma&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/supabase.svg"> Supabase&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/firebase.svg"> Firebase&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/nodejs.svg"> NodeJS&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/railway.svg"> Railway&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/pusher.svg"> Pusher&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/git.svg"> Git&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/python.svg"> Python&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/r.svg"> R
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/r.svg"> R&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/linux.svg"> Linux&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Mint&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
