@@ -40,7 +40,7 @@ My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" 
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/prisma.svg"> Prisma&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/supabase.svg"> Supabase&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/firebase.svg"> Firebase&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/nodejs.svg"> NodeJS&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/nodejs.svg"> Node.js&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/railway.svg"> Railway&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/pusher.svg"> Pusher&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/git.svg"> Git&nbsp;&nbsp;&nbsp;&nbsp;
