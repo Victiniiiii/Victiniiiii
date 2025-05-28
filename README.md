@@ -42,7 +42,6 @@ My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" 
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/firebase.svg"> Firebase&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/nodejs.svg"> Node.js&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/railway.svg"> Railway&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/pusher.svg"> Pusher&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/git.svg"> Git&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/python.svg"> Python&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/r.svg"> R&nbsp;&nbsp;&nbsp;&nbsp;
