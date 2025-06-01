@@ -5,7 +5,7 @@ I always wanted to have a programming job, but never thought it would be in fron
 My life philosophy is, after seeing an interesting thing, saying "What if i made this thing but better?"  
 I am a fast learner, able to pick up new technologies in incredible time.  
 I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  
-My favorite technology is: <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/tauri.svg"> Tauri (They are doing an incredible job). I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Linux Mint.  
+I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Linux Mint.  
 
 <!--<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
