@@ -1,7 +1,6 @@
 # <a href="https://victiniiiii.github.io/">Portfolio Link</a> - <a href="https://github.com/Victiniiiii/TaratorMusic">TaratorMusic Link</a> - <a href="https://victiniiiii.vercel.app/">Co-op Canvas Link</a> 
 ## About me
-I'm studying statistics at Ege University in Izmir, Turkey. It's currently my third year. I speak Turkish, English and French.  
-I always wanted to have a programming job, but never thought it would be in front-end. Honestly, im pretty happy with my choice.  
+I'm studying statistics at Ege University in Izmir, Turkey. It's currently my fourth year. I speak Turkish, English and French.  
 My life philosophy is, after seeing an interesting thing, saying "What if i made this thing but better?"  
 I am a fast learner, able to pick up new technologies in incredible time.  
 I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  
