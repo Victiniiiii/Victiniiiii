@@ -16,7 +16,7 @@ I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="ht
 </div>  -->
 
 ## My favorite projects (TRY THEM OUT!!!)
-<a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a>: TaratorMusic is a desktop music application, which has extreme optimisation, playlists, customisation, ability to download youtube videos, volume stabilisation, discord rich presence and more! It's free to use and fully open source, can be used while offline. This is the project who took the longest to develop (Still adding features). It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after many months, i did it. Please give it a try and let me know your opinions!  
+<a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a>: TaratorMusic is a desktop music application, which has extreme optimisation, playlists, customisation, ability to download youtube and spotify songs, volume stabilisation, statistics, discord rich presence and more! It's free to use and fully open source, can be used while offline. This is the project who took the longest to develop (Still adding features). It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after many months, i did it. Please give it a try and let me know your opinions!  
 
 <a href="https://victiniiiii.github.io/IzmirGuessrCompetitive">**IzmirGuessr Competitive**</a>: This is a web-based game where you're dropped onto a random street in Izmir using the Google Maps API, and your goal is to guess your exact location as accurately as possible. The game then gives you points based on how close your guess was, and the highest points are shown in the main menu leaderboard! You can login with Google to save your statistics and settings across multiple devices, just takes one click! I can safely say, the guessing game is much more fun when its the streets you grew up in...
 
@@ -42,7 +42,6 @@ I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="ht
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/firebase.svg"> Firebase&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/nodejs.svg"> Node.js&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/railway.svg"> Railway&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/docker.svg"> Docker&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/git.svg"> Git&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/python.svg"> Python&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/r.svg"> R&nbsp;&nbsp;&nbsp;&nbsp;
