@@ -1,5 +1,4 @@
-# <a href="https://victiniiiii.github.io/">Portfolio Link</a> - <a href="https://github.com/Victiniiiii/TaratorMusic">TaratorMusic Link</a> - <a href="https://victiniiiii.vercel.app/">Co-op Canvas Link</a> 
-## About me
+## About me - <a href="https://victiniiiii.github.io/">Portfolio Link</a>
 I'm studying statistics at Ege University in Izmir, Turkey. It's currently my fourth year. I speak Turkish, English and French.  
 My life philosophy is, after seeing an interesting thing, saying "What if i made this thing but better?"  
 I am a fast learner, able to pick up new technologies in incredible time.  
