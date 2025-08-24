@@ -1,6 +1,6 @@
 ## About me - <a href="https://victiniiiii.github.io/">Portfolio Link</a>
 I'm studying statistics at Ege University in Izmir, Turkey. It's currently my fourth year. I speak Turkish, English and French.  
-My life philosophy is, after seeing an interesting thing, saying "What if i made this thing but better?"  
+My life philosophy is, after seeing an interesting thing, saying "What if i made this thing, but better?"  
 I am a fast learner, able to pick up new technologies in incredible time.  
 I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  
 I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Linux Mint.  
