@@ -7,7 +7,7 @@ I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="ht
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 40% !important; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=300&theme=dark&hide=C%23,Rust,SCSS,EJS&exclude_repo=NTPcalismasorulari&v=2"/>
+    <img style="width: 40% !important; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=300&theme=dark&exclude_repo=NTPcalismasorulari&v=2"/>
   </a>
   <a href="https://leetcode.com/Victiniiiii/">
     <img style="width: 55%; height: 100%; object-fit: cover;" src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
