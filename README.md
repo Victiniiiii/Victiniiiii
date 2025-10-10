@@ -6,8 +6,8 @@
         I'm studying statistics at Ege University in Izmir, Turkey. It's currently my fourth year. I speak Turkish, English and French.  
         My life philosophy is, after seeing an interesting thing, saying "What if i made this thing, but better?"  
         I am a fast learner, able to pick up new technologies in incredible time.  
-        I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  <br>        I'm currently using 
-        <img src="https://victiniiiii.github.io/icons/linux_mint.svg" width="16" height="16"> Linux Mint.
+        I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.
+        I'm currently using <img src="https://victiniiiii.github.io/icons/linux_mint.svg" width="16" height="16"> Linux Mint.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
