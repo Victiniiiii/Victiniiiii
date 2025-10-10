@@ -1,18 +1,21 @@
 ## About me - <a href="https://victiniiiii.github.io/">Portfolio Link</a>
-I'm studying statistics at Ege University in Izmir, Turkey. It's currently my fourth year. I speak Turkish, English and French.  
-My life philosophy is, after seeing an interesting thing, saying "What if i made this thing, but better?"  
-I am a fast learner, able to pick up new technologies in incredible time.  
-I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  
-I'm currently using <img style="width: 1em; height: 1em; display: flex;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Linux Mint.  
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 40% !important; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=6&card_width=300&theme=dark&exclude_repo=NTPcalismasorulari&v=2"/>
-  </a>
-  <a href="https://leetcode.com/Victiniiiii/">
-    <img style="width: 55%; height: 100%; object-fit: cover;" src="https://leetcard.jacoblin.cool/Victiniiiii?theme=dark&font=Tahoma" />
-  </a>
-</div>  
+<table width="100%">
+  <tr>
+    <td width="50%" valign="middle" style="padding: 1em 0;">
+        I'm studying statistics at Ege University in Izmir, Turkey. It's currently my fourth year. I speak Turkish, English and French.  
+        My life philosophy is, after seeing an interesting thing, saying "What if i made this thing, but better?"  
+        I am a fast learner, able to pick up new technologies in incredible time.  
+        I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.  <br>        I'm currently using 
+        <img src="https://victiniiiii.github.io/icons/linux_mint.svg" width="16" height="16"> Linux Mint.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=300&theme=dark&exclude_repo=NTPcalismasorulari&v=2" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My favorite projects (TRY THEM OUT!!!)
 <a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a>: TaratorMusic is a desktop music application, which has very quick launch and app speeds, playlists, customisation, ability to download youtube and spotify songs, volume stabilisation, statistics, rich presence and more! It's free to use and fully open source, can be used while offline. This is the project which took the longest to develop (still adding features). It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after many months, i did it. Please give it a try and let me know your opinions!  
