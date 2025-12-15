@@ -10,9 +10,7 @@
         I'm currently using <img src="https://victiniiiii.github.io/icons/linux_mint.svg" width="16" height="16"> Linux Mint.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=301&theme=dark&v=2" width="100%">
-      </a>
+      <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=301&theme=dark&v=2&role=OWNER,ORGANIZATION_MEMBER&hide=C%23,Kotlin,C" width="100%">
     </td>
   </tr>
 </table>
