@@ -10,7 +10,7 @@
         I'm currently using <img src="https://victiniiiii.github.io/icons/linux_mint.svg" width="16" height="16"> Linux Mint.
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=300&theme=dark&v=2&role=OWNER,COLLABORATOR&hide=Kotlin,C" width="100%"> <!-- C%23 -->
+      <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=300&theme=dark&v=2&role=OWNER,COLLABORATOR&hide=Kotlin,C,C%23" width="100%"> 
     </td>
   </tr>
 </table>
