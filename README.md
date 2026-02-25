@@ -15,10 +15,8 @@
   </tr>
 </table>
 
-## My favorite projects (TRY THEM OUT!!!)
-<a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a>: TaratorMusic is a desktop music application, which has very quick launch and app speeds, playlists, customisation, ability to download youtube and spotify songs, volume stabilisation, statistics, rich presence and more! It's free to use and fully open source, can be used while offline. This is the project which took the longest to develop (still adding features). It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after many months, i did it. Please give it a try and let me know your opinions!  
-
-<a href="https://victiniiiii.github.io/IzmirGuessrCompetitive">**IzmirGuessr Competitive**</a>: This is a web-based game where you're dropped onto a random street in Izmir using the Google Maps API, and your goal is to guess your exact location as accurately as possible. The game then gives you points based on how close your guess was, and the highest points are shown in the main menu leaderboard! You can login with Google to save your statistics and settings across multiple devices, just takes one click! I can safely say, the guessing game is much more fun when its the streets you grew up in...
+## TaratorMusic (TRY IT OUT!!!)
+<a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a> is a cross platform desktop music application, which has very quick launch and app speeds, playlists, customisation, ability to download youtube and spotify songs and playlists, volume stabilisation, statistics, rich presence, a recommendations algorithm, song streaming and more! It's free to use and fully open source, can be used while offline. The main goals are: Keep it offline first, lightweight and packed with features. This is the project which took the longest to develop for me (still adding features after 2 years). My aim is to make it a real competitor to the other music players while getting feedback from the user community, focusing on their preferred features. It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after much effort, i did it. Please give it a try and let me know your opinions!  
 
 ## Technologies i use
 <div style="text-align: center;">
