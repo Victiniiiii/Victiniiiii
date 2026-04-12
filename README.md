@@ -37,4 +37,4 @@
 </div>
 <div>&nbsp;</div>
 
-<img width="450" src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=300&theme=dark&v=2&role=OWNER,COLLABORATOR&hide=Kotlin,C,C%23" width="100%"> 
+<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&card_width=500&langs_count=8&card_width=300&theme=dark&v=2&role=OWNER,COLLABORATOR&hide=Kotlin,C,C%23" width="100%"> 
