@@ -1,24 +1,15 @@
 ## About me - <a href="https://victiniiiii.github.io/">Portfolio Link</a>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="middle" style="padding: 1em 0;">
-        I'm studying statistics at Ege University in Izmir, Turkey. It's currently my fourth year. I speak Turkish, English and French.  
-        My life philosophy is, after seeing an interesting thing, saying "What if i made this thing, but better?"  
-        I am a fast learner, able to pick up new technologies in incredible time.  
-        I always go back and improve my old projects, even the oldest ones, knowing that there is a bug in my code makes me restless.
-        I'm currently using <img src="https://victiniiiii.github.io/icons/linux_mint.svg" width="16" height="16"> Linux Mint.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=300&theme=dark&v=2&role=OWNER,COLLABORATOR&hide=Kotlin,C,C%23" width="100%"> 
-    </td>
-  </tr>
-</table>
+- Statistics graduate
+- Living in Izmir, Turkey
+- Speaking Turkish (Native), English (C1) and French (B1)
+- Using Linux Mint
+- Doing full-stack development and have image recognition (OpenCV) work experience
 
-## TaratorMusic (TRY IT OUT!!!)
-<a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a> is a cross platform desktop music application, which has very quick launch and app speeds, playlists, customisation, ability to download youtube and spotify songs and playlists, volume stabilisation, statistics, rich presence, a recommendations algorithm, song streaming and more! It's free to use and fully open source, can be used while offline. The main goals are: Keep it offline first, lightweight and packed with features. This is the project which took the longest to develop for me (still adding features after 2 years). My aim is to make it a real competitor to the other music players while getting feedback from the user community, focusing on their preferred features. It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after much effort, i did it. Please give it a try and let me know your opinions!  
+## TaratorMusic
+<a href="https://github.com/Victiniiiii/TaratorMusic"> **TaratorMusic**</a> is a cross platform desktop music application, which has very quick launch and app speeds, playlists, customisation, ability to download songs and playlists, volume stabilisation, statistics, rich presence, a recommendations algorithm, song streaming and more! It's free to use and fully open source, can be used while offline. The main goals are: Keep it offline first, lightweight and packed with features. This is the project which took the longest to develop for me (still adding features after 2 years). My aim is to make it a real competitor to the other music players while getting feedback from the user community, focusing on their preferred features. It all began when i had a 500 song playlist in youtube, but it kept lagging, and i had to listen to the same 20-30 songs. I said to myself, i could do a better version, and after much effort, i did it. Please give it a try and let me know your opinions!  
 
-## Technologies i use
+## Technologies
 <div style="text-align: center;">
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/html.svg"> HTML&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/css.svg"> CSS&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,3 +35,6 @@
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/linux.svg"> Linux&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 1em; height: 1em;" src="https://victiniiiii.github.io/icons/linux_mint.svg"> Mint&nbsp;&nbsp;&nbsp;&nbsp;    
 </div>
+<div>&nbsp;</div>
+
+<img width="450" src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs?username=Victiniiiii&layout=compact&langs_count=8&card_width=300&theme=dark&v=2&role=OWNER,COLLABORATOR&hide=Kotlin,C,C%23" width="100%"> 
